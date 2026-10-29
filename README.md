@@ -1,7 +1,7 @@
 # Hi, I'm Chabota 👋
 
 ## 🚀 Featured Projects
-- **[Project Name](https://github.com/chabota7/your-repo-name)** - Brief 1-sentence description of your main application.
+- **  Coming  Soon** 
 
 ---
 
